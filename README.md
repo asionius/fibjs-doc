@@ -6,6 +6,10 @@ To enrich fibjs's document, we need carray the code in test cases onto document 
 
 ## How to do when you clone this project
 
+- Fetch submodule
+
+Type ```git submodule init``` ```git submodule update``` to fetch submodule docs into project
+
 - Generate document
 
 Type ```fibjs docs.js``` under 'tools' directory in your terminal command line, and document are generated in director 'docs/web/dist', then open the index.html with your web browser and you can review what the document has changed to.
