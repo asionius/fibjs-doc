@@ -7,12 +7,15 @@ To enrich fibjs's document, we need carray the code in test cases onto document 
 ## How to do when you clone this project
 
 - Generate document
+
 Type ```fibjs docs.js``` under 'tools' directory in your terminal command line, and document are generated in director 'docs/web/dist', then open the index.html with your web browser and you can review what the document has changed to.
 
 - Modify idl
+
 Then modify the *.idl files under 'idl' directory.
 
 - Regenerate document
+
 Same as 'Generate document'
 
 ## How to contribute
